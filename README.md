@@ -7,3 +7,4 @@ This is my artfoo repository. I'll upload, mostly queer and computer science rel
 * Haecksen
   * Logo Proposal
   * 35c3 Design Proposal
+* a trianglefied trans pride flag
